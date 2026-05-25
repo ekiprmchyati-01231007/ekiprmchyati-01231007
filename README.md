@@ -14,7 +14,7 @@
 ---
 
 ### 🌙 About Me
-Lingkaran cahaya! Aku Eki. Hanya orang biasa yang kebetulan mampir ke GitHub. Saya sangat menyukai ketukan musik pop Inggris, menyelami dunia fisika bahan, dan menghabiskan waktu luang dengan main game.
+Lingkaran cahaya! Aku Eki. Hanya orang biasa yang kebetulan mampir ke GitHub. Saya sangat menyukai playlist pop Inggris favoritku, menyelami dunia fisika bahan, dan menghabiskan waktu luang dengan main game.
 
 Jika kamu mampir ke sini, silakan seduh teh hangat, putar lagu favoritmu, dan mari bersantai sejenak! ☕
 
