@@ -14,7 +14,7 @@
 ---
 
 ### 🌙 About Me
-Halo! Aku Eki. Aku hanya orang biasa yang kebetulan mampir ke GitHub. Aku sangat menyukai hal-hal yang berbau estetika retro, pixel art, dan suasana malam yang tenang. 
+Lingkaran cahaya! Aku Eki. Hanya orang biasa yang kebetulan mampir ke GitHub. Saya sangat menyukai ketukan musik pop Inggris, menyelami dunia fisika bahan, dan menghabiskan waktu luang dengan main game.
 
 Jika kamu mampir ke sini, silakan seduh teh hangat, putar lagu favoritmu, dan mari bersantai sejenak! ☕
 
