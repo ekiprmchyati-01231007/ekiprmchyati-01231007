@@ -3,11 +3,11 @@
 <!-- Gambar Banner Utama -->
 <img src="eki.png" width="100%" alt="Eki's Cozy Room" style="border-radius: 12px; margin-bottom: 20px;" />
 
-# Hallo, I'm Eki! 💜 ✨
+# Hallo, I'm Eki! 
 
 *Just an ordinary person enjoying the quiet moments in life.*
 
-[ 🎧 Listening to Lo-Fi ] · [ 🐱 Cat Lover ] · [ 🌙 Star Gazer ]
+[ 🎧 Listening to Music ] · [ 🐱 Cat Lover ] · [ 🌙 Moon Gazer ]
 
 </div>
 
