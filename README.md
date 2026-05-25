@@ -14,17 +14,9 @@
 ---
 
 ### 🌙 About Me
-Halo! Aku Eki. Aku bukan programmer/developer, hanya orang biasa yang kebetulan mampir ke GitHub. Aku sangat menyukai hal-hal yang berbau estetika retro, pixel art, dan suasana malam yang tenang. 
+Halo! Aku Eki. Aku hanya orang biasa yang kebetulan mampir ke GitHub. Aku sangat menyukai hal-hal yang berbau estetika retro, pixel art, dan suasana malam yang tenang. 
 
 Jika kamu mampir ke sini, silakan seduh teh hangat, putar lagu favoritmu, dan mari bersantai sejenak! ☕
-
----
-
-### 💜 My Favorite Things
-- **Kucing** 🐾 — Aku punya dua kucing kesayangan (satu hitam misterius, satu putih salju) yang selalu setia menemani di meja kerja.
-- **Musik** 🎧 — Playlist lo-fi lembut atau melodi tengah malam yang menenangkan.
-- **Membaca** 📖 — Menyukai buku harian, novel misteri, dan cerita-cerita fantasi kuno.
-- **Suasana Malam** 🌙 — Duduk dekat jendela, menyalakan lilin aromaterapi, dan menatap bulan sabit.
 
 ---
 
