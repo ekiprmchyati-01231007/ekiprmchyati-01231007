@@ -33,6 +33,6 @@ Jika kamu mampir ke sini, silakan seduh teh hangat, putar lagu favoritmu, dan ma
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Crescent%20Moon.png" alt="Crescent Moon" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20Drink/Hot%20Beverage.png" alt="Hot Drink" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" alt="Crescent Moon" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20%26%20Drink/Hot%20Beverage.png" alt="Hot Drink" width="40" height="40" />
 </div>
